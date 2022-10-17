@@ -6,4 +6,4 @@ This is the boilerplate for the Secure Real Time Multiplayer Game project. Instr
 
 ![alt text](https://github.com/secretoelit/boilerplate-project-secure-real-time-multiplayer-game/blob/main/preview1.png?raw=true)
 
-![alt text](https://github.com/secretoelit/boilerplate-project-secure-real-time-multiplayer-game/blob/main/preview1.png?raw=true)
+![alt text](https://github.com/secretoelit/boilerplate-project-secure-real-time-multiplayer-game/blob/main/preview2.png?raw=true)
