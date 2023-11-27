@@ -1,0 +1,14 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.25.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - jsdom > whatwg-url > lodash:
+        patched: '2023-11-19T10:55:32.521Z'
+        id: SNYK-JS-LODASH-567746
+        path: jsdom > whatwg-url > lodash
+    - jsdom > data-urls > whatwg-url > lodash:
+        patched: '2023-11-19T10:55:32.521Z'
+        id: SNYK-JS-LODASH-567746
+        path: jsdom > data-urls > whatwg-url > lodash
