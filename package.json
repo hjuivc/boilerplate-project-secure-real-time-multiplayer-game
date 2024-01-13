@@ -25,7 +25,7 @@
     "nodemon": "^2.0.2",
     "socket.io": "^2.3.0",
     "socket.io-client": "^2.3.0",
-    "@snyk/protect": "latest"
+    "@snyk/protect": "1.1266.0"
   },
   "license": "MIT",
   "snyk": true
